@@ -3,10 +3,12 @@
 1 - *Início*
 
 2 - *Verificar se o animal é válido*
+    
     Sim: Continue para o próximo passo
     Não: Retorne "Animal inválido"
 
 3 - *Verificar se a quantidade é válida*
+    
     Sim: Continue para o próximo passo
     Não: Retorne "Quantidade inválida"
 
